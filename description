@@ -1,0 +1,16 @@
+------------------
+French
+------------------
+
+Ce dépôt présente une approche grammaticale originale pour l’étude des nombres de Sophie Germain et des safe primes.
+Il inclut un laboratoire Python complet, un générateur SG basé sur une grammaire interne (G1/G2/G3), un modèle hasard, un générateur de safe primes, des visualisations et un rapport LaTeX détaillé.
+Ce travail met en évidence une structure interne cohérente dans la distribution des SG, centrée sur l’angle 348° (résidu 29 mod 30), et propose une méthodologie reproductible pour l’étude empirique des nombres premiers.
+
+------------------
+English
+------------------
+This repository presents an original grammatical approach to studying Sophie Germain primes and safe primes.
+It includes a complete Python laboratory, a grammar‑based SG generator (G1/G2/G3), a random model, a safe‑prime generator, visualizations, and a detailed LaTeX report.
+This work highlights a coherent internal structure in SG distribution, centered on the 348° angle (residue 29 mod 30), and provides a reproducible methodology for empirical prime‑number analysis.
+
+

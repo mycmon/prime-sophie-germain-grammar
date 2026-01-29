@@ -1,0 +1,17 @@
+ABSTRACT SCIENTIFIQUE
+
+Abstract Français
+
+Ce travail présente une approche grammaticale originale pour l’étude des nombres de Sophie Germain (SG) et des safe primes associés.
+En analysant empiriquement la distribution des SG dans l’angle 348° (résidu 29 mod 30), nous mettons en évidence une structure interne composée de trois niveaux : G1 (squelette), G2 (motifs internes) et G3 (anomalies).
+Cette grammaire permet de reproduire la dynamique réelle des écarts entre SG, en contraste marqué avec un modèle aléatoire.
+Nous proposons un laboratoire Python complet permettant la génération de SG, la comparaison avec un modèle hasard, la production de safe primes et l’export automatique en LaTeX.
+Ce dépôt fournit une base reproductible et ouverte pour l’étude des structures internes des nombres premiers.
+
+Abstract English
+
+This work introduces an original grammatical approach to studying Sophie Germain primes (SG) and their associated safe primes.
+Through empirical analysis of SG distribution in the 348° angle (residue 29 mod 30), we identify a three‑level internal structure: G1 (skeleton), G2 (internal motifs), and G3 (anomalies).
+This grammar reproduces the real dynamics of SG gaps, in sharp contrast with a random model.
+We provide a complete Python laboratory for SG generation, random‑model comparison, safe‑prime production, and automatic LaTeX export.
+This repository offers an open and reproducible foundation for exploring the internal structure of prime numbers.

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Analyse grammaticale des nombres de Sophie Germain"
+message: "Si vous utilisez ce travail, veuillez citer :"
+authors:
+  - family-names: "Monfette"
+    given-names: "Michel"
+keywords:
+  - Sophie Germain primes
+  - safe primes
+  - number theory
+  - grammatical model
+  - modulo 30
+  - prime gaps
+  - cryptography
+license: MIT
+version: "1.0"
+date-released: "2026-01-28"
+
