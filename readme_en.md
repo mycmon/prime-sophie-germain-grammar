@@ -85,5 +85,6 @@ This work aims to:
     • support open and independent research
     • offer a foundation for future work (cryptography, heuristics, modeling)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18408778.svg)](https://doi.org/10.5281/zenodo.18408778)
 
 
