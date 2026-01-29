@@ -86,3 +86,4 @@ Ce travail vise à :
     • fournir une base solide pour des travaux futurs (cryptographie, heuristiques, modélisation)
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18408778.svg)](https://doi.org/10.5281/zenodo.18408778)
